@@ -58,7 +58,7 @@ You can also specify a path other than the `root`.
 ```js
 var person = { name: 'Maiah', occupation: 'Ninja' };
 db.set('/person', person, function (err) {
-  if (!err) console.log('Saved person under root path');
+  if (!err) console.log('Saved person object');
 });
 
 ```
