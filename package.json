@@ -1,0 +1,27 @@
+{
+  "name": "level-set",
+  "version": "0.0.1",
+  "description": "Saves JSON to your LevelDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maiah/level-set.git"
+  },
+  "keywords": [
+    "leveldb",
+    "levelup",
+    "json"
+  ],
+  "author": "Maiah Macariola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maiah/level-set/issues"
+  },
+  "dependencies": {
+    "leveldown": "~0.7.0",
+    "levelup": "~0.13.0"
+  }
+}
