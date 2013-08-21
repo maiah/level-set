@@ -1,6 +1,6 @@
 {
   "name": "level-set",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Saves JSON to your LevelDB",
   "main": "index.js",
   "scripts": {
