@@ -25,7 +25,7 @@ db.set('/', person, function (err) {
 });
 ```
 
-This will put LevelDB data structure at the `root` path.
+This will put key-value pairs LevelDB data structure at the `root` path.
 ```
 name = Maiah
 occupation = Ninja
@@ -47,7 +47,7 @@ db.set('/', person, function (err) {
 
 ```
 
-This will put LevelDB data structure at the `root` path.
+This will put key-value pairs LevelDB data structure at the `root` path.
 ```
 name = Maiah
 occupation = Ninja
@@ -63,7 +63,7 @@ db.set('/person', person, function (err) {
 
 ```
 
-This will put LevelDB data structure at the `person` path.
+This will put key-value pairs LevelDB data structure at the `person` path.
 ```
 person/name = Maiah
 person/occupation = Ninja
