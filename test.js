@@ -16,6 +16,7 @@ db.set('/', ninja, function (err) {
 	assert(!err);
 
 	db.get('name', function (err, value) {
+		assert(!err);
 		assert.strictEqual(value, 'Maiah');
 	});
 

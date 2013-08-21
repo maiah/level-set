@@ -5,7 +5,7 @@ Saves JSON to your LevelDB
 
 ### Install
 ```bash
-npm install level-path
+npm install level-set
 ```
 
 ```js
@@ -14,7 +14,7 @@ var LevelUp = require('levelup'),
 
 var db = LevelUp('./testdb');
 
-LevelPath(db);
+LevelSet(db);
 ```
 
 ### Set JSON object
