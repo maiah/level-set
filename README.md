@@ -10,7 +10,7 @@ npm install level-set
 
 ```js
 var LevelUp = require('levelup'),
-    LevelPath = require('level-path');
+    LevelSet = require('level-set');
 
 var db = LevelUp('./testdb');
 
