@@ -20,8 +20,8 @@
   "bugs": {
     "url": "https://github.com/maiah/level-set/issues"
   },
-  "dependencies": {
-    "leveldown": "~0.7.0",
-    "levelup": "~0.13.0"
+  "devDependencies": {
+    "levelup": "~0.14.0",
+    "leveldown": "~0.7.0"
   }
 }
