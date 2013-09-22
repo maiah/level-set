@@ -1,7 +1,7 @@
 level-set
 =========
 
-Saves JSON to your LevelDB
+Saves JSON to your LevelDB. Converting your JSON to LevelDB key-value pair data structure.
 
 ### Install
 ```bash

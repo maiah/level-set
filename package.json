@@ -1,7 +1,7 @@
 {
   "name": "level-set",
-  "version": "0.0.7",
-  "description": "Saves JSON to your LevelDB",
+  "version": "0.1.1",
+  "description": "Saves JSON to your LevelDB. Converting your JSON to LevelDB key-value pair data structure.",
   "main": "index.js",
   "scripts": {
     "test": "node test"
